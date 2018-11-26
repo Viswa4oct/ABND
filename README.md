@@ -5,3 +5,4 @@ Projects from Android Basics Nanodegree
 * Project2 - Score Keeper App (My project is based off a sport, Cricket).
 * Project3 - Quiz App (My project is based off some facts about the world in the form of a quiz).
 * Project4 - Musical Structure App (My project is a custom designed music player by me).
+* Project5 - Tour Guide App (My project is based off the city I live in, Visakhapatnam).
